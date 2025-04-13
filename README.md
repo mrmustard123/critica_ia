@@ -12,8 +12,8 @@ En la **Parte 2**, se profundiza en las limitaciones de la IA para interactuar c
 
 ## Autor
 
-**Leonardo Téllez**  
-Ingeniero en informática y entusiasta del pensamiento crítico aplicado a la tecnología.
+**Ing. Leonardo Gabriel Télez Saucedo**  
+Ingeniero en informática egresado de la UAGRM, Santa Cruz-Bolivia y entusiasta del pensamiento crítico aplicado a la tecnología.
 
 ---
 
